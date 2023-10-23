@@ -1,8 +1,9 @@
-name: SellMenu
+name: FrostSellUI
 main: HeY\Sell\Main
 version: 2.0.0
 api: 5.0.0
 author: HeY
+website: https://web.frostnetwork.xyz
 depend: [SellAll]
 
 commands:
