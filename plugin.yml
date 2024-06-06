@@ -3,7 +3,7 @@ main: HeY\Sell\Main
 version: 2.0.0
 api: 5.0.0
 author: HeY
-website: https://web.frostnetwork.xyz
+website: https://frostnetwork.xyz
 depend: [SellAll]
 
 commands:
